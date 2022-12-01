@@ -1,0 +1,31 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+/.idea/
+/wpf-registry-common/target/
+/wpf-registry-api/target/
+/wpf-registry-client/target/
+/wpf-registry-server/target/
+/wpf-registry-spring-cloud-starter/target/
+/wpf-registry-consumer-example/target/
+/wpf-registry-provider-example/target/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
